@@ -30,8 +30,12 @@ public class mc : MonoBehaviour
     {
         birds[gc.instance.Getselectedbird()].SetActive(true);
         checkifbirdareunlocked();
-        PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().Build();
+        PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder()
+            //.RequestEmail()
+            //.RequestIdToken()
+            .Build();
         PlayGamesPlatform.InitializeInstance(config);
+        PlayGamesPlatform.DebugLogEnabled = true;
         PlayGamesPlatform.Activate();
 
         if (!Social.localUser.authenticated)

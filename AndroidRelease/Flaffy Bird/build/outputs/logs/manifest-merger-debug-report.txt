@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\02d22a98334ba0c5413ee13b429c91ce\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1ca52eb19488d2e8e47b26896beeec00\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b68b13a729b08f5b7b9306dbca61f207\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\26b9c23526ab1d86e7583f2bede17235\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4fe6880d228ce2555eb49440a2347e35\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\d8a625e052abc0fc643ccc8f4686e205\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\07613246fb2e4d814037084776a7f2e9\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\dda42d35df79173f3cc92dd37b97fb3c\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\39e5f2476e3bf474822329f12c14bdc1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f1ffc8456564dfb94713c3b8f5e6fcc9\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c87c6e3e6ac503d636352ddcfdd20aa1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ac007e562125cc4b89e083135a521c32\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c27f3e95bc1735d84f58f133a5117ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\2376070ba5fb48fd361f78df30ad4aa4\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ab2ace7965ed9ba8954af2948259db99\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\eb65432045950ad6df17c12b464f86bf\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7cc0b9b0e7b070db67b96ed590deeb57\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\df58ddc5d83b1417822d4b48af383874\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1cebdbb9a8a98a9afa68a0ee1f10f61a\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\85b8614e9426211f5bda7e46ee5d27ee\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\06abb628507af5fd6c91bafe4b03907c\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\672fd4a720b4c98d3d84a8b40e6e104e\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:17:1-39:12
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7a404d4a6bcc1c9d27be49a2f20e07ba\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\5953f2e6b9556b9658218c77dbb4073a\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\090b2f244581ff3de7dede851e86e187\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-games-18.0.1:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4b4584805800e8d87893e39a0dc38b5e\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:2:1-11:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\688144725214e383099861c8f5c0ee30\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.06:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a7586ba8d605f6920979987281a0e739\AndroidManifest.xml:2:1-11:12
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:1-30:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:104-150
+	android:versionCode
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:2:151-191
+supports-screens
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:4:3-17:17
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\06abb628507af5fd6c91bafe4b03907c\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\06abb628507af5fd6c91bafe4b03907c\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\090b2f244581ff3de7dede851e86e187\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\090b2f244581ff3de7dede851e86e187\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-18.0.1:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4b4584805800e8d87893e39a0dc38b5e\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-18.0.1:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4b4584805800e8d87893e39a0dc38b5e\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\688144725214e383099861c8f5c0ee30\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\688144725214e383099861c8f5c0ee30\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.06:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a7586ba8d605f6920979987281a0e739\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.06:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a7586ba8d605f6920979987281a0e739\AndroidManifest.xml:9:5-20
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-28:19
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-28:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:4:16-57
+activity#com.firenoid.flaffybird.UnityPlayerActivity
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:87-118
+	android:hardwareAccelerated
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:301-336
+	android:configChanges
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:119-300
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:5:337-395
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:10:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:11:7-78
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:11:55-75
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:11:18-54
+meta-data#unity.build-id
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:15:16-50
+meta-data#notch.config
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:16:5-81
+	android:value
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:16:44-78
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:16:16-43
+uses-feature#0x00020000
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:18:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:19:3-91
+	android:required
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:19:64-88
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:19:17-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:20:3-65
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:20:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:21:3-88
+	android:required
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:21:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:22:3-99
+	android:required
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:22:72-96
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:22:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:23:3-108
+	android:required
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:23:81-105
+	android:name
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml:23:17-80
+uses-sdk
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\02d22a98334ba0c5413ee13b429c91ce\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\02d22a98334ba0c5413ee13b429c91ce\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1ca52eb19488d2e8e47b26896beeec00\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1ca52eb19488d2e8e47b26896beeec00\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b68b13a729b08f5b7b9306dbca61f207\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b68b13a729b08f5b7b9306dbca61f207\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f33f35e4894093471ae80bda1e888bef\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\26b9c23526ab1d86e7583f2bede17235\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\26b9c23526ab1d86e7583f2bede17235\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4fe6880d228ce2555eb49440a2347e35\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4fe6880d228ce2555eb49440a2347e35\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\d8a625e052abc0fc643ccc8f4686e205\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\d8a625e052abc0fc643ccc8f4686e205\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\07613246fb2e4d814037084776a7f2e9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\07613246fb2e4d814037084776a7f2e9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\dda42d35df79173f3cc92dd37b97fb3c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\dda42d35df79173f3cc92dd37b97fb3c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\39e5f2476e3bf474822329f12c14bdc1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\39e5f2476e3bf474822329f12c14bdc1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f1ffc8456564dfb94713c3b8f5e6fcc9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\f1ffc8456564dfb94713c3b8f5e6fcc9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c87c6e3e6ac503d636352ddcfdd20aa1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c87c6e3e6ac503d636352ddcfdd20aa1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ac007e562125cc4b89e083135a521c32\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ac007e562125cc4b89e083135a521c32\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c27f3e95bc1735d84f58f133a5117ad8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\c27f3e95bc1735d84f58f133a5117ad8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\2376070ba5fb48fd361f78df30ad4aa4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\2376070ba5fb48fd361f78df30ad4aa4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ab2ace7965ed9ba8954af2948259db99\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\ab2ace7965ed9ba8954af2948259db99\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\eb65432045950ad6df17c12b464f86bf\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\eb65432045950ad6df17c12b464f86bf\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7cc0b9b0e7b070db67b96ed590deeb57\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7cc0b9b0e7b070db67b96ed590deeb57\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\df58ddc5d83b1417822d4b48af383874\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\df58ddc5d83b1417822d4b48af383874\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1cebdbb9a8a98a9afa68a0ee1f10f61a\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\1cebdbb9a8a98a9afa68a0ee1f10f61a\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\85b8614e9426211f5bda7e46ee5d27ee\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\85b8614e9426211f5bda7e46ee5d27ee\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\06abb628507af5fd6c91bafe4b03907c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\06abb628507af5fd6c91bafe4b03907c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\672fd4a720b4c98d3d84a8b40e6e104e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\672fd4a720b4c98d3d84a8b40e6e104e\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7a404d4a6bcc1c9d27be49a2f20e07ba\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\7a404d4a6bcc1c9d27be49a2f20e07ba\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\5953f2e6b9556b9658218c77dbb4073a\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\5953f2e6b9556b9658218c77dbb4073a\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\090b2f244581ff3de7dede851e86e187\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\090b2f244581ff3de7dede851e86e187\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-18.0.1:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4b4584805800e8d87893e39a0dc38b5e\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-18.0.1:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\4b4584805800e8d87893e39a0dc38b5e\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\688144725214e383099861c8f5c0ee30\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\688144725214e383099861c8f5c0ee30\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.06:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a7586ba8d605f6920979987281a0e739\AndroidManifest.xml:7:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.06:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a7586ba8d605f6920979987281a0e739\AndroidManifest.xml:7:5-44
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-47
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-47
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		MERGED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\84263739d75b54ab0c5b4249846ccca4\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\b77d14db4f3be39e5889266fd7757383\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\a73495d2d512ae07f5f23e88eedec339\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-nearby-17.0.0:] C:\Users\bachi\.gradle\caches\transforms-2\files-2.1\23c4a9f0a9c6204dcad55e21e890d2ee\AndroidManifest.xml:7:22-76
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:49
+	android:value
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-46
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-63
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-23:44
+	android:value
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-41
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-69
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-27:86
+	android:theme
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\bachi\Documents\New Unity Project (1)\Android\Flaffy Bird\GooglePlayGamesManifest.plugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-72

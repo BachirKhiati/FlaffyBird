@@ -1,0 +1,4 @@
+#Tue Jan 21 21:54:32 EET 2020
+base.0=C\:\\Users\\bachi\\Documents\\New Unity Project (1)\\Android\\Flaffy Bird\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
